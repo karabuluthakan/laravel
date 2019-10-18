@@ -1,0 +1,10 @@
+version: '3.7'
+
+services:
+  postgres:
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=
+  redis:
+    environment:
+      - REDIS_PASSWORD:root

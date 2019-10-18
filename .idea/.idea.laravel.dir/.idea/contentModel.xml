@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.gitignore_global" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="blog/node_modules/@types" t="IncludeRecursive">
+        <e p="events" t="IncludeRecursive" />
+        <e p="minimatch" t="IncludeRecursive" />
+        <e p="node" t="IncludeRecursive" />
+      </e>
+      <e p="blog/node_modules/axios" t="IncludeRecursive" />
+      <e p="blog/node_modules/bootstrap" t="IncludeRecursive" />
+      <e p="blog/node_modules/chalk" t="IncludeRecursive" />
+      <e p="blog/node_modules/commander" t="IncludeRecursive" />
+      <e p="blog/node_modules/cross-env" t="IncludeRecursive" />
+      <e p="blog/node_modules/jquery" t="IncludeRecursive" />
+      <e p="blog/node_modules/laravel-mix" t="IncludeRecursive" />
+      <e p="blog/node_modules/lodash" t="IncludeRecursive" />
+      <e p="blog/node_modules/popper.js" t="IncludeRecursive" />
+      <e p="blog/node_modules/resolve-url-loader" t="IncludeRecursive" />
+      <e p="blog/node_modules/sass" t="IncludeRecursive" />
+      <e p="blog/node_modules/sass-loader" t="IncludeRecursive" />
+      <e p="blog/node_modules/source-map" t="IncludeRecursive" />
+      <e p="blog/node_modules/terser" t="IncludeRecursive" />
+      <e p="blog/node_modules/vue" t="IncludeRecursive" />
+      <e p="blog/node_modules/vue-template-compiler" t="IncludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_.19.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/ide" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+  </component>
+</project>
