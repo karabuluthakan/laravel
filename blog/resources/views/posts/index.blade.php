@@ -2,14 +2,15 @@
 
 @section('content')
     <div class="container">
-        <table class="table">
-            <thead>
+        <table class="table table-responsive table-striped table-hover table-bordered">
+            <thead class="thead-dark">
             <tr>
-                <th scope="col">#ID</th>
-                <th scope="col">Title</th>
-                <th scope="col">Slug</th>
-                <th scope="col">Category</th>
-                <th scope="col">Content</th>
+                <th scope="col">#</th>
+                <th scope="col">{{__('system.title')}}</th>
+                <th scope="col">{{__('system.slug')}}</th>
+                <th scope="col">{{__('system.category')}}</th>
+                <th scope="col">{{__('system.content')}}</th>
+                <th scope="col">{{__('system.edit')}}</th>
             </tr>
             </thead>
             <tbody>
@@ -20,6 +21,7 @@
                 <td>{{$post->slug}}</td>
                 <td>{{$post->category->name}}</td>
                 <td>{{$post->content}}</td>
+                <td> <a href="{{route('post.edit',$post->id)}}"><i class="fas fa-edit"></i></a></td>
             </tr>
             @endforeach
             </tbody>

@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05cf5fe5-61ba-475c-bb41-9773700ebdbb" name="Default Changelist" comment="" />
+    <list default="true" id="05cf5fe5-61ba-475c-bb41-9773700ebdbb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/resources/lang/en/system.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/resources/lang/tr/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/resources/lang/tr/pagination.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/resources/lang/tr/passwords.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/resources/lang/tr/system.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/resources/lang/tr/validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/blog/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/resources/views/posts/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/blog/resources/views/posts/index.blade.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,11 +49,18 @@
     </expand>
     <select />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1SI2RpQIHGuzXSQsqKNKWRmN1uf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/blog" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/blog/resources/lang" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -53,6 +71,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blog/resources/lang" />
       <recent name="$PROJECT_DIR$/blog" />
     </key>
   </component>
@@ -98,11 +117,22 @@
       <workItem from="1571238409300" duration="157000" />
       <workItem from="1571300380450" duration="3257000" />
       <workItem from="1571389029659" duration="277000" />
-      <workItem from="1571399326562" duration="5224000" />
+      <workItem from="1571399326562" duration="6415000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
